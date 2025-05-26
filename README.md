@@ -28,7 +28,7 @@ Handling large Excel files can be cumbersome, especially when you need to work w
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/yourusername/excel-splitter-pro.git
+git clone https://github.com/JackTheIT/excel-splitter-pro.git
 cd excel-splitter-pro
 ````
 
