@@ -121,10 +121,3 @@ If you find this tool useful, ⭐ star the repo!
 ---
 
 *Made with ❤️ using Python & Tkinter*
-
-```
-
----
-
-If you want, I can help you add the screenshots placeholders or create some sample images too! Just let me know.
-```
